@@ -6,3 +6,5 @@ function saludar(nombre){
 }
 
 console.log(saludar("Roberto"));
+
+console.log(saludar("Tenchipe"));
